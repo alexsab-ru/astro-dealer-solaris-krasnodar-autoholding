@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://solaris.alexsab.ru',
+	site: 'https://solaris-krasnodar-autoholding.ru',
 	base: "/"
 });

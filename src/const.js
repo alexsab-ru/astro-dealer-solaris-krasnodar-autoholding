@@ -1,19 +1,19 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
-export const SITE_NAME = 'Дилер';
+export const SITE_NAME = 'Автохолдинг Тургеневский';
 // Юр лицо
-export const LEGAL_ENTITY = 'ООО «Юридическое название»';
+export const LEGAL_ENTITY = 'ООО «ОРБИТА»';
 // ИНН
-export const LEGAL_INN = '1234567890';
+export const LEGAL_INN = '0107028898';
 // Город
-export const LEGAL_CITY = 'г. Город';
+export const LEGAL_CITY = 'г. Краснодар';
 // где? в Городе
-export const LEGAL_CITY_WHERE = 'Городе';
+export const LEGAL_CITY_WHERE = 'Краснодаре';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр';
 // Телефон по умолчанию
-export const PHONE = '+7 (999) 000-00-00';
+export const PHONE = '+7 (861) 297 44 44';
 // Бренд
 export const BRAND = 'SOLARIS';
 // Конечное время для таймера
@@ -24,7 +24,7 @@ export const MARQUEE = { title: `Тотальная распродажа до ${
 // Ссылка яндекс-виджета
 export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
-export const LINK_WIDGET_ORGNIZATION = '';
+export const LINK_WIDGET_ORGNIZATION = 'CHrbzJ~0';
 // Ссылки под хедером
 import { groupArrayByKey } from '@/js/utils/groupArrayByKey';
 import modelsData from '@/data/models.json';
@@ -51,7 +51,7 @@ export const LINKS_MENU = [
 	{url: '#services', name: 'Услуги'},
 	{url: 'javascript:void(0)', name: 'О SOLARIS', children: [
 		{url: 'about/', name: 'О бренде'},
-		{url: 'news/', name: 'Новости'},
+		// {url: 'news/', name: 'Новости'},
 		{url: 'contacts/', name: 'Контакты'},
 	]},
 ];
@@ -59,7 +59,7 @@ export const LINKS_MENU = [
 export const COLLECTIONS = [
 	{name: 'special-offers', title: 'Спецпредложения'},
 	{name: 'for-owners', title: 'Владельцам'},
-	{name: 'news', title: 'Новости'},
+	// {name: 'news', title: 'Новости'},
 ];
 // Текстовая строка над хедером
 export const HEADER_TOP_LINE = '';
