@@ -10,7 +10,8 @@ description: "При сдаче в трейд‑ин Вашего автомоб
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, PHONE, LEGAL_CITY_WHERE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 
@@ -25,7 +26,7 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 	<img src="https://cdn.alexsab.ru//specials/solaris/trade-in/trade-in-mobile.webp" class="w-full mb-10" alt=" Покупка SOLARIS в трейд-ин" />
 </picture>
 
-Только до {dateToGenitive} года в {SITE_NAME} в {LEGAL_CITY_WHERE} действуют специальные условия на приобретение нового Solaris HS, Solaris HC, Solaris KRS, Solaris KRX 2024-2025 года производства.
+Только до {dateToGenitive} года в {site_name} в {legal_city_where} действуют специальные условия на приобретение нового Solaris HS, Solaris HC, Solaris KRS, Solaris KRX 2024-2025 года производства.
 
 При сдаче в трейд‑ин Вашего автомобиля (любой марки) Вы получаете специальные условия в виде скидки при приобретении нового Solaris HS, Solaris HC, Solaris KRS – до 210 000 рублей<sup>*</sup>, при условии использования своего текущего автомобиля в качестве части оплаты за новый автомобиль.
 
