@@ -26,10 +26,20 @@ export const LINKS_MENU = [
 		children
 	},
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
-	{url: 'special-offers/', name: 'Спецпредложения'},
-	{url: 'for-owners/', name: 'Владельцам'},
-	{url: 'test-drive/', name: 'Запись на тест-драйв'},
-	{url: 'service-request/', name: 'Запись на сервис'},
+	{url: 'javascript:void(0)', name: 'Покупателям', children: [
+		{url: 'special-offers/', name: 'Спецпредложения'},
+		{url: 'special-offers/credits/', name: 'Кредит'},
+		{url: 'special-offers/trade-in/', name: 'Трейд-ин'},
+		{url: 'special-offers/corporate-clients/', name: 'Корпоративным клиентам'},
+		{url: 'test-drive/', name: 'Запись на тест-драйв'},
+	]},
+	{url: 'for-owners/', name: 'Владельцам', children: [
+		{url: 'special-offers/', name: 'Спецпредложения'},
+		{url: 'service-request/', name: 'Запись на сервис'},
+		{url: 'for-owners/warranty/', name: 'Гарантия'},
+		{url: 'for-owners/manuals/', name: 'Руководство по эксплуатации'},
+		{url: 'for-owners/assistance/', name: 'Помощь на дорогах'},
+	]},
 	{url: '#services', name: 'Услуги'},
 	{url: 'javascript:void(0)', name: 'О SOLARIS', children: [
 		{url: 'about/', name: 'О бренде'},
