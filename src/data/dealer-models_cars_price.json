@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "Solaris",
+    "model": "HC",
+    "price": 2548000,
+    "benefit": 210000
+  },
+  {
+    "brand": "Solaris",
+    "model": "HS",
+    "price": 1940000,
+    "benefit": 210000
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRS",
+    "price": 1900688,
+    "benefit": 210000
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRX",
+    "price": 1750000,
+    "benefit": 210000
+  }
+]
