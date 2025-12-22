@@ -1,6 +1,4 @@
 @use "mixins";
 
-@include mixins.font("Mulish", normal, 400, "https://cdn.alexsab.ru/fonts/Mulish/Mulish-Regular.woff2");
-@include mixins.font("Mulish", normal, 500, "https://cdn.alexsab.ru/fonts/Mulish/Mulish-Medium.woff2");
-@include mixins.font("Mulish", normal, 600, "https://cdn.alexsab.ru/fonts/Mulish/Mulish-SemiBold.woff2");
-@include mixins.font("Mulish", normal, 700, "https://cdn.alexsab.ru/fonts/Mulish/Mulish-Bold.woff2");
+/* @include mixins.font("Gilroy", normal, 300, "/fonts/gilroy-light.woff2");
+@include mixins.font("Gilroy", normal, 800, "/fonts/gilroy-extrabold.woff2"); */
