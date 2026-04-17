@@ -9,10 +9,10 @@ const {car = {}, path = '/cars/', slug, totalShow = true, ...rest} = Astro.props
 // Формируем URL по приоритету: переданный slug | внутренний путь по id
 const url = slug ? slug : `${path}${car.id}/`;
 
-import { calculateCarPrice, getModelBadgeData } from '@/js/utils/car.utils';
-// Подсказка: при необходимости можно отдельно получить модель через findModelByCarData(car.data).
-// Теперь мы тянем сразу картинку и alt в одном месте, чтобы не повторять поиск модели.
-const { image: badgeImage, alt: badgeAlt } = getModelBadgeData(car.data);
+import { calculateCarPrice, findModelByCarData } from '@/js/utils/car.utils';
+import { getModelBadgeData } from '@/js/utils/modelBadge.utils';
+const carModel = findModelByCarData(car.data);
+const { image: badgeImage, alt: badgeAlt } = getModelBadgeData(carModel, 'car_list');
 const price = calculateCarPrice(car.data);
 
 import { declOfNums, currencyFormat } from '@/js/utils/numbers.format';
@@ -55,7 +55,7 @@ const salons = salonsData.filter((salon: ISalon) => !salon?.type || salon?.type.
 			{car.data.run ? <Fragment set:html={`&nbsp;/&nbsp;${car.data.run}&nbsp;км`} /> : ''}
 		</div></noindex>
 		{(car.data.total && totalShow) && (<div class="text-xs sm:text-sm md:text-base mt-0.5 sm:mt-1 text-gray-900">{ car.data.total } {declOfNums(car.data.total)}</div>)}
-		{badgeImage && (<img src={badgeImage} class="absolute right-3 top-3 xs:right-1 xs:top-1 z-10 xs:h-12 h-16 lg:h-20 xl:h-24 w-auto" alt={badgeAlt} />)}
+		{badgeImage && (<img src={badgeImage} class="absolute right-3 top-3 xs:right-1 xs:top-1 z-10 xs:h-12 h-16 lg:h-20 xl:h-24 w-auto max-w-[50px]! xl:max-w-[90px]! object-contain" alt={badgeAlt} />)}
 	</div>
 	<div class="px-3 xl:px-4 flex flex-wrap justify-between gap-y-2 sm:gap-y-3">
 		<Button 
