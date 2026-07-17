@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "brand": "Solaris",
+    "model": "Кей-Эр-Икс (KRX)",
+    "price": 2275000,
+    "benefit": 260000
+  },
+  {
+    "brand": "Solaris",
+    "model": "Кей-Эр-Эс (KRS)",
+    "price": 2235000,
+    "benefit": 210000
+  },
+  {
+    "brand": "Solaris",
+    "model": "Эйч-Си (HC)",
+    "price": 2585000,
+    "benefit": 260000
+  }
+]
