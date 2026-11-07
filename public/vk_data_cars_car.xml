@@ -18,11 +18,11 @@
       <body_type>Седан</body_type>
       <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., коричневый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/0/full.webp?v=cec977db1798</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/0/full.webp?v=62f389fd9bfd</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/1/full.webp?v=ee4706bdc9bb</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/2/full.webp?v=f7fe6ed6a14e</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/3/full.webp?v=317cc202ece3</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/4/full.webp?v=c5a43a54b7f4</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/4/full.webp?v=6cd8fec8c061</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/5/full.webp?v=0b71cd0bbc1c</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/6/full.webp?v=55cd26b83e1d</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR270969/7/full.webp?v=5bd3e391d9ab</image>
@@ -57,6 +57,8 @@
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR273470/9/full.webp?v=bc3c565bf464</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR273470/10/full.webp?v=b8243741c2b1</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR273470/11/full.webp?v=1b25a2cef3d8</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR273470/12/full.webp?v=c650577141ea</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR273470/13/full.webp?v=5b42658db633</image>
       </images>
     </car>
     <car>
@@ -78,9 +80,9 @@
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/0/full.webp?v=ce53351008c9</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/1/full.webp?v=f86844c83056</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/2/full.webp?v=44bb6bd7c641</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/2/full.webp?v=df2883702288</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/3/full.webp?v=fb1c08634fe4</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/4/full.webp?v=fa0272057742</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/4/full.webp?v=54b60fd6c7da</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/5/full.webp?v=cd82541594a4</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/6/full.webp?v=7e967e2ae555</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274322/7/full.webp?v=bc03c0999451</image>
@@ -117,6 +119,8 @@
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274861/7/full.webp?v=953251d4e0fd</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274861/8/full.webp?v=4c0a199a8407</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274861/9/full.webp?v=d037b1e9e1ac</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274861/10/full.webp?v=54d1916a041c</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR274861/11/full.webp?v=60e79f0119d1</image>
       </images>
     </car>
     <car>
@@ -137,11 +141,11 @@
       <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275280/0/full.webp?v=a333df48fd7b</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275280/1/full.webp?v=c909842e6cf3</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275280/1/full.webp?v=cdf5ff9cdbfc</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275280/2/full.webp?v=14bbe566c2c9</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275280/3/full.webp?v=a5ff25eb7036</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275280/4/full.webp?v=36bbf7fcceb0</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275280/5/full.webp?v=a64074ba1929</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275280/5/full.webp?v=5c3ca7a2414c</image>
       </images>
     </car>
     <car>
@@ -191,14 +195,14 @@
       <description>Автомобиль Solaris KRS, Комфорт, 1.6 AT (123 л.с.), 2025 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/0/full.webp?v=d7018532be78</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/1/full.webp?v=87921be54326</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/1/full.webp?v=d70b97e223b3</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/2/full.webp?v=e09d36398aaa</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/3/full.webp?v=16f4e8f2604f</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/4/full.webp?v=df138f773e5b</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/5/full.webp?v=162ce035c6da</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/6/full.webp?v=2cf717ae1edd</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/7/full.webp?v=d0a1c0a897c6</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/8/full.webp?v=1445e9ec028b</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/8/full.webp?v=6e9895233d9c</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275300/9/full.webp?v=bac5aa804f2a</image>
       </images>
     </car>
@@ -220,10 +224,10 @@
       <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/0/full.webp?v=2b7f76527f7d</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/1/full.webp?v=d8047c0b92bc</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/1/full.webp?v=e3fc6843e103</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/2/full.webp?v=3a7ad6cd9114</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/3/full.webp?v=a90ebc02adff</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/4/full.webp?v=5c859f0f36d0</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/4/full.webp?v=2df215b6d8b8</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/5/full.webp?v=5a989209baf5</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/6/full.webp?v=5b52303523d3</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275678/7/full.webp?v=2aaca7ea5aa3</image>
@@ -251,8 +255,8 @@
       <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275837/0/full.webp?v=1b507359214f</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275837/1/full.webp?v=821c0f80ac1f</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275837/2/full.webp?v=66389f0dcdc8</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275837/1/full.webp?v=3993d988819d</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275837/2/full.webp?v=ab86690c2964</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275837/3/full.webp?v=43d3bcb27a1e</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275837/4/full.webp?v=696dffebf07c</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275837/5/full.webp?v=e69df9e38432</image>
@@ -291,6 +295,8 @@
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275838/9/full.webp?v=cf7c8d5d9965</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275838/10/full.webp?v=568f47243b31</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275838/11/full.webp?v=3d96f4b07291</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275838/12/full.webp?v=ab7efefd6fc6</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275838/13/full.webp?v=0f3255ede167</image>
       </images>
     </car>
     <car>
@@ -320,6 +326,8 @@
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275839/7/full.webp?v=2e8341de2f80</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275839/8/full.webp?v=9aa115aa42d9</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275839/9/full.webp?v=8080f6dcf4f9</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275839/10/full.webp?v=be5e76273555</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C241BBSR275839/11/full.webp?v=107deadb7c9f</image>
       </images>
     </car>
     <car>
@@ -338,8 +346,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR188858/0/full.webp?v=e2409b9179e2</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR188858/1/full.webp?v=981857e91bca</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR188858/0/full.webp?v=0764d6d649a0</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR188858/1/full.webp?v=b7cb47fbeb45</image>
       </images>
     </car>
     <car>
@@ -358,9 +366,9 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194468/0/full.webp?v=c3f9e678f698</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194468/0/full.webp?v=057be8874200</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194468/1/full.webp?v=9e401b51ac06</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194468/2/full.webp?v=87144b0a8b9b</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194468/2/full.webp?v=c3f2605d1092</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194468/3/full.webp?v=08b5dee290c4</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194468/4/full.webp?v=a1114816090c</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194468/5/full.webp?v=6ec1def91f3c</image>
@@ -385,8 +393,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194478/0/full.webp?v=3205d06ec544</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194478/1/full.webp?v=885c918e5802</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194478/0/full.webp?v=29a5b1abf36f</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194478/1/full.webp?v=4af7c3f0e63b</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194478/2/full.webp?v=cbeabeb388b6</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194478/3/full.webp?v=fe624b641fc3</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR194478/4/full.webp?v=8a697ec387f3</image>
@@ -415,11 +423,11 @@
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/0/full.webp?v=857413cf0213</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/1/full.webp?v=de753fe3f121</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/2/full.webp?v=6003ec991023</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/2/full.webp?v=2dd06b722834</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/3/full.webp?v=b4abcbd312f0</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/4/full.webp?v=5ae9849a85c6</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/5/full.webp?v=4e2bda0c5d67</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/6/full.webp?v=7c584fa6d787</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/6/full.webp?v=191eb2fb7574</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/7/full.webp?v=3c0fc6f6ef24</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/8/full.webp?v=622250a92fd1</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196352/9/full.webp?v=c3062598e27b</image>
@@ -443,11 +451,11 @@
       <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/0/full.webp?v=d5c296f08978</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/1/full.webp?v=199e5deecd6c</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/1/full.webp?v=b239df9f760a</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/2/full.webp?v=5075a0db1326</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/3/full.webp?v=7771868cd06b</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/4/full.webp?v=5950537ee4d1</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/5/full.webp?v=b51bb6a8a293</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/5/full.webp?v=f0acd9da41e5</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/6/full.webp?v=8e995bceafc6</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/7/full.webp?v=66d05caa21cd</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196353/8/full.webp?v=ba156d051e91</image>
@@ -470,8 +478,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196510/0/full.webp?v=cbed0fccc504</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196510/1/full.webp?v=f246b0eacfc8</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196510/0/full.webp?v=3ea2146bffad</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196510/1/full.webp?v=f4fcc8380e02</image>
       </images>
     </car>
     <car>
@@ -490,8 +498,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., синий</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196530/0/full.webp?v=1c385662b1fb</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196530/1/full.webp?v=892b2e15ab1d</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196530/0/full.webp?v=38025e969953</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196530/1/full.webp?v=dbe8bdf516ec</image>
       </images>
     </car>
     <car>
@@ -510,8 +518,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196539/0/full.webp?v=4f1f1a17d1eb</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196539/1/full.webp?v=159e5d52b818</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196539/0/full.webp?v=9b7c39dad78f</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR196539/1/full.webp?v=56fc6341e368</image>
       </images>
     </car>
     <car>
@@ -530,8 +538,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR198534/0/full.webp?v=287ba20ccfb2</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR198534/1/full.webp?v=594aa0be0766</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR198534/0/full.webp?v=0909cc60f928</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR198534/1/full.webp?v=bbf219ccd585</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR198534/2/full.webp?v=27f985e0a507</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR198534/3/full.webp?v=f22e051c2590</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR198534/4/full.webp?v=6093502465a7</image>
@@ -558,8 +566,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR199110/0/full.webp?v=618f6e2ac956</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR199110/1/full.webp?v=2bb6011e87f8</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR199110/0/full.webp?v=e8e40119b665</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C251BBSR199110/1/full.webp?v=2dc126bf1951</image>
       </images>
     </car>
     <car>
@@ -581,10 +589,10 @@
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/0/full.webp?v=db25859a2a6c</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/1/full.webp?v=6fd633de65cf</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/2/full.webp?v=dbe41742814b</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/2/full.webp?v=a089f30c0a71</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/3/full.webp?v=f04cd9a340ef</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/4/full.webp?v=90adc4c954a7</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/5/full.webp?v=a91af7c204b4</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/5/full.webp?v=7fe0b340bf81</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/6/full.webp?v=4d71cc3c28b8</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/7/full.webp?v=b92297a6f72e</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275769/8/full.webp?v=728fba11d45e</image>
@@ -609,9 +617,9 @@
       <description>Автомобиль Solaris KRS, Премиум, 1.6 AT (123 л.с.), 2025 г., красный</description>
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/0/full.webp?v=ab1a1636b781</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/1/full.webp?v=0224475bd4a5</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/1/full.webp?v=bf7608588a3f</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/2/full.webp?v=188aba032294</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/3/full.webp?v=ce14541cceee</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/3/full.webp?v=0c66da845c65</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/4/full.webp?v=9a50f946f4f5</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/5/full.webp?v=301f24313efb</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275829/6/full.webp?v=74b5b9b94c84</image>
@@ -635,11 +643,11 @@
       <body_type>Седан</body_type>
       <description>Автомобиль Solaris KRS, Премиум, 1.6 AT (123 л.с.), 2025 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/0/full.webp?v=4cf870bf0428</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/0/full.webp?v=2ea47ac17089</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/1/full.webp?v=660f28089b44</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/2/full.webp?v=61d377db0fc8</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/3/full.webp?v=052f0582d20d</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/4/full.webp?v=3264a5083823</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/4/full.webp?v=c84d78f218a3</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/5/full.webp?v=986381e0c11b</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/6/full.webp?v=2cd9b3bee811</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C341BBSR275849/7/full.webp?v=758980ba7208</image>
@@ -662,8 +670,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194434/0/full.webp?v=a15d7a9c1c03</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194434/1/full.webp?v=5eaeb50f1302</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194434/0/full.webp?v=9306cdf22592</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194434/1/full.webp?v=0e2fdc927a0e</image>
       </images>
     </car>
     <car>
@@ -682,8 +690,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194435/0/full.webp?v=e287846908e1</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194435/1/full.webp?v=fa9b1f2ee596</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194435/0/full.webp?v=8d937040511a</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194435/1/full.webp?v=f1dd7cbbdb89</image>
       </images>
     </car>
     <car>
@@ -702,8 +710,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194436/0/full.webp?v=58aa44e5df07</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194436/1/full.webp?v=59242b606756</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194436/0/full.webp?v=7673b0a97edc</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194436/1/full.webp?v=f177b7837920</image>
       </images>
     </car>
     <car>
@@ -722,8 +730,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194493/0/full.webp?v=9d99a02cda30</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194493/1/full.webp?v=d21069827f2a</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194493/0/full.webp?v=330bba44e900</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194493/1/full.webp?v=00d5935ad2bc</image>
       </images>
     </car>
     <car>
@@ -742,8 +750,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194494/0/full.webp?v=adeb8f97065f</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194494/1/full.webp?v=62e9620905c4</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194494/0/full.webp?v=5f94d1e13a02</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR194494/1/full.webp?v=56d362a542bf</image>
       </images>
     </car>
     <car>
@@ -762,8 +770,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR195187/0/full.webp?v=3104ff29f4c3</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR195187/1/full.webp?v=f505b4d676f8</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR195187/0/full.webp?v=6fede97c9cca</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR195187/1/full.webp?v=38d2aaae3229</image>
       </images>
     </car>
     <car>
@@ -782,8 +790,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR195211/0/full.webp?v=58ec34b941a5</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR195211/1/full.webp?v=72a97f9f8687</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR195211/0/full.webp?v=ec313eaaab60</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR195211/1/full.webp?v=63fc2ebf1d54</image>
       </images>
     </car>
     <car>
@@ -802,8 +810,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR196368/0/full.webp?v=ab3b321bb9b7</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR196368/1/full.webp?v=17d4ac15c260</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR196368/0/full.webp?v=c31de66e5a72</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR196368/1/full.webp?v=bf7faab217ef</image>
       </images>
     </car>
     <car>
@@ -822,8 +830,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR196369/0/full.webp?v=ff5744509c1f</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR196369/1/full.webp?v=8895a057dbbe</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR196369/0/full.webp?v=932beeb0d831</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR196369/1/full.webp?v=9f912a109470</image>
       </images>
     </car>
     <car>
@@ -842,7 +850,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., коричневый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR197775/0/full.webp?v=6367afbc70dd</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94C351BBSR197775/0/full.webp?v=43ecba1279c8</image>
       </images>
     </car>
     <car>
@@ -862,8 +870,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Solaris HC, Классик, 1.6 AT (123 л.с.), 2025 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PB814BSR066381/0/full.webp?v=c6f6f5356456</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PB814BSR066381/1/full.webp?v=2ea9793f4da2</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PB814BSR066381/0/full.webp?v=63cc949f9665</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PB814BSR066381/1/full.webp?v=b22200d20830</image>
       </images>
     </car>
     <car>
@@ -894,6 +902,7 @@
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PB814BSR068563/8/full.webp?v=6c3edebc7a98</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PB814BSR068563/9/full.webp?v=90a34ebf0674</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PB814BSR068563/10/full.webp?v=dacd48beac02</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PB814BSR068563/11/full.webp?v=619234b38f49</image>
       </images>
     </car>
     <car>
@@ -925,6 +934,7 @@
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815BSR072295/9/full.webp?v=83c1c4c7303f</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815BSR072295/10/full.webp?v=3de409efb3ac</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815BSR072295/11/full.webp?v=f1926f0359f5</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815BSR072295/12/full.webp?v=8a2372b27c7a</image>
       </images>
     </car>
     <car>
@@ -944,8 +954,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Solaris HC, Лайфстайл, 2.0 4WD AT (150 л.с.), 2025 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR056149/0/full.webp?v=fad67baa7fb9</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR056149/1/full.webp?v=8cbefc288ecf</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR056149/0/full.webp?v=ee29c81fa7a5</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR056149/1/full.webp?v=a88b53a2b956</image>
       </images>
     </car>
     <car>
@@ -967,13 +977,13 @@
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/0/full.webp?v=f9f9dafe5d33</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/1/full.webp?v=54f6c1af7819</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/2/full.webp?v=ef06dc6ec85f</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/2/full.webp?v=c1c0c5a953f2</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/3/full.webp?v=4284b68245a3</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/4/full.webp?v=7724f5b397e0</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/5/full.webp?v=ee41024f63c0</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/6/full.webp?v=a5cfda8a3aec</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/7/full.webp?v=fd0383750cd1</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/8/full.webp?v=73791cbb9314</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/8/full.webp?v=34ac5974434e</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR061125/9/full.webp?v=664c09024233</image>
       </images>
     </car>
@@ -995,11 +1005,11 @@
       <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 4WD AT (150 л.с.), 2025 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/0/full.webp?v=660b7cd1d83a</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/1/full.webp?v=7c36d28c06b0</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/1/full.webp?v=6a35f1a383e3</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/2/full.webp?v=d21a950b1f53</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/3/full.webp?v=e41d7881490c</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/4/full.webp?v=478e1b1200d0</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/5/full.webp?v=e646f247854d</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/5/full.webp?v=33342421d33e</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/6/full.webp?v=6afd089a398d</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR064702/7/full.webp?v=14d94a447f0e</image>
       </images>
@@ -1080,8 +1090,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Solaris HC, Лайфстайл, 2.0 4WD AT (150 л.с.), 2025 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR071099/0/full.webp?v=b3eabcad7f6c</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR071099/1/full.webp?v=fd9305253527</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR071099/0/full.webp?v=f71934e3c1bb</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PC815DSR071099/1/full.webp?v=2f3dff403582</image>
       </images>
     </car>
     <car>
@@ -1113,6 +1123,8 @@
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR054997/9/full.webp?v=6df4946fd3fb</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR054997/10/full.webp?v=354f470db391</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR054997/11/full.webp?v=bbcbd3afa500</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR054997/12/full.webp?v=68d0cdddcbf0</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR054997/13/full.webp?v=84aaffbff3aa</image>
       </images>
     </car>
     <car>
@@ -1134,11 +1146,11 @@
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/0/full.webp?v=4ca6ec30e7f7</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/1/full.webp?v=874063d89508</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/2/full.webp?v=010445517c30</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/2/full.webp?v=271ff52fd140</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/3/full.webp?v=83e80ed05162</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/4/full.webp?v=dcd3592b48e1</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/5/full.webp?v=ca904c4d51b9</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/6/full.webp?v=977a02e36e18</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/6/full.webp?v=45cb6c8e4dc8</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/7/full.webp?v=5bfe5e3ae362</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/8/full.webp?v=e66d3a4cc19c</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR055158/9/full.webp?v=56121e8025ba</image>
@@ -1172,6 +1184,8 @@
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR066985/6/full.webp?v=6080f055f732</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR066985/7/full.webp?v=f3a9bb1e1fe8</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR066985/8/full.webp?v=4b1999bdee32</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR066985/9/full.webp?v=1001715b8885</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR066985/10/full.webp?v=7d9ef590cd5f</image>
       </images>
     </car>
     <car>
@@ -1193,10 +1207,10 @@
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/0/full.webp?v=4c8dae6d460c</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/1/full.webp?v=b58547fe13fe</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/2/full.webp?v=d8616c0801a5</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/2/full.webp?v=615add38568d</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/3/full.webp?v=7d61e2dd8f76</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/4/full.webp?v=ff5836093624</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/5/full.webp?v=cd6240320b41</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/5/full.webp?v=c523fa9a853b</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/6/full.webp?v=c5fcc5394640</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/7/full.webp?v=8a114fd75b84</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF814BSR070368/8/full.webp?v=5991c9196991</image>
@@ -1250,8 +1264,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Solaris HC, Фэмили, 2.0 AT (150 л.с.), 2025 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067889/0/full.webp?v=723cf96545fb</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067889/1/full.webp?v=c45dae913b4b</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067889/0/full.webp?v=1702900b90f9</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067889/1/full.webp?v=1092ab99f840</image>
       </images>
     </car>
     <car>
@@ -1272,10 +1286,10 @@
       <description>Автомобиль Solaris HC, Family + Ultra, 2.0 AT (150 л.с.), 2025 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/0/full.webp?v=94c253475000</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/1/full.webp?v=2df07d827384</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/1/full.webp?v=62ef62f05e31</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/2/full.webp?v=bf2691c27e4e</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/3/full.webp?v=c575f24d2c8e</image>
-        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/4/full.webp?v=f4eae8f9d514</image>
+        <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/4/full.webp?v=0804b743c027</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/5/full.webp?v=d17767705106</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/6/full.webp?v=5c067346e7eb</image>
         <image>https://img.upspace.ru/cars/solaris-krasnodar-autoholding.ru/new/Z94PF815BSR067962/7/full.webp?v=363fee572a69</image>
